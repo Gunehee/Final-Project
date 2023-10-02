@@ -2,7 +2,7 @@
 Project Repository | Group (Gunhee, Haochen, Sophia L, Sophia S)
 
 ## Web Map Link
-### [Starbucks in Seattle Map](https://sophial25.github.io/Final-Project/)
+### [Starbucks in Seattle Map](http://127.0.0.1:5500/Final-Project/index.html)
 ![Function01](img/ss1.png) 
 ![Function02](img/ss2.png)
 
